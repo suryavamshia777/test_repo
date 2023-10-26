@@ -15,4 +15,4 @@ class Player(Turtle):
         self.goto(STARTING_POSssstestbrnchITION)  
 
     def go_up(self):
-        self.forward(MOVE_DISTANCEeeaaaaee)
+        self.forward(MOVE_DISTANCEeeaaaaamasteraee)
