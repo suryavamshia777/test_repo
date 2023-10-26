@@ -16,4 +16,4 @@ class Player(Turtle):
   
 
     def go_up(self):
-        self.forward(MOVE_DISTANCEeeaaamasteraee)
+        self.forward(MOVE_DISTANCEeeaaaaamasteraee)
