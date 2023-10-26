@@ -8,7 +8,7 @@ class Player(Turtle):
         super().__init__()
         self.shape("turtle")
         self.penup()
-        self.goto(STARTING_POSITION)
+        self.goto(STARTING_POSssssITION)
         self.setheading(90)
     
     def startpoint(self):
