@@ -13,6 +13,7 @@ class Player(Turtle):
     
     def startpoint(self):
         self.goto(STARTING_POSsssmasterchange2ITION)  
+  
 
     def go_up(self):
         self.forward(MOVE_DISTANCEeeaaamasteraee)
